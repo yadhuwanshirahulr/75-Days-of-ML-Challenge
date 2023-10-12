@@ -1,33 +1,44 @@
-# Awesome Project
+# 75 Days Of ML Challenge
+![ml](https://github.com/yadhuwanshirahulr/75-Days-of-ML-Challenge/assets/81252848/04e91b29-17b3-45cd-b8eb-d8f2d8d19979)
 
-## Subheading
+# Hey
+I am a passionate and dedicated individual embarking on a transformative journey through the 75-Day ML Challenge. This challenge is an intensive 75-day program designed to elevate my knowledge and skills in the exciting field of Machine Learning.
 
-A cool project that does amazing things.
+## What is the 75-Day ML Challenge?
+The 75-Day ML Challenge is a comprehensive and structured program that combines learning, practice, and project-based experiences to immerse  in the world of machine learning. Over the course of 75 days, I will dive deep into the realm of data, algorithms, and predictive modeling.
 
-![Demo](https://miro.medium.com/v2/resize:fit:828/0*JeblKGSeSsyozlsF.gif)
+## What Will I Learn in These Days?
+During this challenge, I will acquire a wide range of skills and knowledge, including: <br>
 
-## Description
+- Understanding the fundamental concepts of machine learning.<br>
+- Proficiency in programming, particularly in Python.<br>
+- Data preprocessing techniques for clean and meaningful datasets.<br>
+- Supervised and unsupervised learning methods.<br>
+- Delving into the world of deep learning and neural networks.<br>
+- The art of evaluating model performance.<br>
+- The ethical considerations surrounding AI and machine learning.<br>
 
-This project is designed to solve complex problems and make your life easier. It's built with cutting-edge technology and includes a wide range of features:
+## My Goal:
+The ultimate goal of my participation in the 75-Day ML Challenge is to become a proficient machine learning practitioner. By the end of this journey, I aim to:<br>
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Have a solid understanding of the core concepts and algorithms in machine learning.<br>
+- Apply machine learning techniques to real-world problems through practical projects.<br>
+- Build a strong portfolio showcasing my skills and accomplishments.<br>
+- Stay informed and continue my learning journey in this dynamic field.<br>
+- I believe that this challenge will not only enhance my knowledge but also open up new opportunities for personal and professional growth.
+- I look forward to sharing my progress and insights throughout this journey, and I'm excited to be part of a community of like-minded learners and machine learning enthusiasts.<br>
 
-You can get started quickly with our easy-to-follow installation and usage instructions.
+Join me on this remarkable 75-day adventure as I take on the 75-Day ML Challenge to elevate my skills and understanding in the world of Machine Learning! 🚀🤖 <br>
+#75DayMLChallenge #MachineLearning #DataScience
 
 ## Contributors
 
-Special thanks to all the contributors who have helped make this project great!
 
-- John Doe ([@johndoe](https://github.com/johndoe))
-- Jane Smith ([@janesmith](https://github.com/janesmith))
-- Bob Johnson ([@bobjohnson](https://github.com/bobjohnson))
+- [Suruchi Kumari](https://github.com/suruchi574)
 
-If you'd like to contribute, please check out our [contribution guidelines](CONTRIBUTING.md).
 
 ## Resources
 
-- [Documentation](https://example.com/documentation)
-- [Issue Tracker](https://github.com/yourusername/awesome-project/issues)
-- [License](LICENSE)
+- [Documentation](https://www.javatpoint.com/machine-learning)
+- [Youtube](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+
