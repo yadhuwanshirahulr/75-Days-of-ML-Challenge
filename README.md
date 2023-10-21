@@ -14,7 +14,7 @@ During this challenge, I will acquire a wide range of skills and knowledge, incl
 - Proficiency in programming, particularly in Python.<br>
 - Data preprocessing techniques for clean and meaningful datasets.<br>
 - Supervised and unsupervised learning methods.<br>
-- Delving into the world of deep learning and neural networks.<br>
+- Diveing into the world of deep learning and neural networks.<br>
 - The art of evaluating model performance.<br>
 - The ethical considerations surrounding AI and machine learning.<br>
 
