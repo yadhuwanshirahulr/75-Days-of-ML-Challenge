@@ -24,7 +24,7 @@ The ultimate goal of my participation in the 75-Day ML Challenge is to become a 
 - Have a solid understanding of the core concepts and algorithms in machine learning.<br>
 - Apply machine learning techniques to real-world problems through practical projects.<br>
 - Build a strong portfolio showcasing my skills and accomplishments.<br>
-- Stay informed and continue my learning journey in this dynamic field.<br>
+- Stay informed and continue my learning journey in this dynamic field. <br>
 - I believe that this challenge will not only enhance my knowledge but also open up new opportunities for personal and professional growth.
 - I look forward to sharing my progress and insights throughout this journey, and I'm excited to be part of a community of like-minded learners and machine learning enthusiasts.<br>
 
