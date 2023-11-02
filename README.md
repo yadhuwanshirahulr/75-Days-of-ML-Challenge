@@ -8,7 +8,7 @@ I am a passionate and dedicated individual embarking on a transformative journey
 The 75-Day ML Challenge is a comprehensive and structured program that combines learning, practice, and project-based experiences to immerse  in the world of machine learning. Over the course of 75 days, I will dive deep into the realm of data, algorithms, and predictive modeling.
 
 ## What Will I Learn in These Days?
-During this challenge, I will acquire a wide range of skills and knowledge, including: <br>
+During this challenge, I will acquire a wide range of skills and knowledge, including:  <br>
 
 - Understanding the fundamental concepts of machine learning. <br>
 - Proficiency in programming, particularly in Python.<br>
