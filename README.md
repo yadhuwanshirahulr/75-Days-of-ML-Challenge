@@ -10,7 +10,7 @@ The 75-Day ML Challenge is a comprehensive and structured program that combines 
 ## What Will I Learn in These Days?
 During this challenge, I will acquire a wide range of skills and knowledge, including:  <br>
 
-- Understanding the fundamental concepts of machine learning.  <br>
+- Understanding the fundamental concepts of machine learning. <br>
 - Proficiency in programming, particularly in Python.<br>
 - Data preprocessing techniques for clean and meaningful datasets.<br>
 - Supervised and unsupervised learning methods.<br>
